@@ -77,5 +77,5 @@ Currently a Ph.D. candidate in Earth & Environment at Boston University.
 #### 🔗 Find me here
 
 [LinkedIn](https://www.linkedin.com/in/kangjooncho) · 
-[Google Scholar](https://scholar.google.com/...) · 
+[Google Scholar]([https://scholar.google.com/...](https://scholar.google.com/citations?user=hj-QD1YAAAAJ&hl=ko)) · 
 [Email](mailto:kangjoon@bu.edu)
