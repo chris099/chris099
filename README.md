@@ -32,12 +32,6 @@ Currently a Ph.D. candidate in Earth & Environment at Boston University.
 ![QGIS](https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white)
 ![GDAL](https://img.shields.io/badge/GDAL-006600?logo=opensourceinitiative&logoColor=white)
 
-**Ecosystem**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-
 ---
 
 #### 📌 Featured Projects
@@ -68,9 +62,6 @@ Currently a Ph.D. candidate in Earth & Environment at Boston University.
 
 - **Detecting utility-scale solar installations and associated land cover changes using spatiotemporal segmentation of Landsat imagery**  
   *Science of Remote Sensing, 2025*
-
-- **Broad-area search of new construction using Landsat & Sentinel-2 time series**  
-  (In preparation)
 
 ---
 
