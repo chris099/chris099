@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Kangjoon
 
-I work at the intersection of **geospatial analytics**, **time-series modeling**, and **environmental systems**.  
+I work at the intersection of **applied geospatial/remote sensing applications**, **time-series analysis**, and **quantitative modeling**.  
 I build scalable pipelines that turn satellite data into **actionable insights** for land-use change, biomass dynamics, and carbon emissions.
 
 Currently a Ph.D. candidate in Earth & Environment at Boston University.
